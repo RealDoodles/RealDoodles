@@ -1,4 +1,4 @@
-<img src="https://tinyimg.io/i/3FZ6Kkj.png" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/99136302?v=4" width="100" height="100">
 
 # RealDoodles
 
