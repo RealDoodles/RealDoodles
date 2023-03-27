@@ -18,7 +18,6 @@ WHO AM I?
 - 💞️ I’m looking to collaborate on any Python program you got!
 - 📫 My Discord is XNO#5560
 - 📫 My email is <punk@owns-a-porn.site>
-- 🌐 My [website/blog](http://a1dan.lol/) can be found [here](http://a1dan.lol)
 
 WHAT DO I DO?
 -------------
